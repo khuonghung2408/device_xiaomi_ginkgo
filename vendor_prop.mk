@@ -211,6 +211,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.early_phase_offset_ns=500000 \
     debug.sf.enable_hwc_vds=0
     
- # Maintainer
+# Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.cherish.maintainer=KhuongHung
