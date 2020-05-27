@@ -132,6 +132,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vendor.display.enable_null_display=0 \
     vendor.display.enable_optimize_refresh=1 \
     vendor.gralloc.disable_ubwc=0
+    sys.display-size=3840x2160
 
 # DRM
 PRODUCT_PROPERTY_OVERRIDES += \
